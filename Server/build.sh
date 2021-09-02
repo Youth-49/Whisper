@@ -1,0 +1,1 @@
+g++ Socket/server.cpp Socket/SocketServer.cpp DB/DBController.cpp -o server -L /usr/lib/x86_64-linux-gnu -l mysqlclient -l pthread

@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/GUI/icon/search.png</file>
+        <file>src/GUI/bg300x220.png</file>
+        <file>src/GUI/bg300x320.png</file>
+        <file>src/GUI/bg300x490.png</file>
+        <file>src/GUI/bgmain.png</file>
+        <file>src/GUI/button.png</file>
+        <file>src/GUI/button_hover.png</file>
+        <file>src/GUI/button_press.png</file>
+        <file>src/GUI/close.png</file>
+        <file>src/GUI/close_hover.png</file>
+        <file>src/GUI/icon.png</file>
+        <file>src/GUI/input.png</file>
+        <file>src/GUI/login.png</file>
+        <file>src/GUI/min.png</file>
+        <file>src/GUI/min_hover.png</file>
+        <file>src/GUI/more.png</file>
+        <file>src/GUI/more_hover.png</file>
+        <file>src/GUI/more_press.png</file>
+        <file>src/GUI/notice.png</file>
+        <file>src/GUI/prompt_error.png</file>
+        <file>src/GUI/prompt_hint.png</file>
+        <file>src/GUI/prompt_warning.png</file>
+        <file>src/GUI/send.png</file>
+        <file>src/GUI/short_button.png</file>
+        <file>src/GUI/short_button_hover.png</file>
+        <file>src/GUI/short_button_press.png</file>
+        <file>src/GUI/short_secbutton.png</file>
+        <file>src/GUI/short_secbutton_hover.png</file>
+        <file>src/GUI/short_secbutton_press.png</file>
+        <file>src/GUI/slice_bg.png</file>
+        <file>src/GUI/thumbs.db</file>
+        <file>src/GUI/icon/addFriend.png</file>
+        <file>src/GUI/icon/addFriend_hover.png</file>
+        <file>src/GUI/icon/send_file.png</file>
+        <file>src/GUI/icon/send_file_hover.png</file>
+        <file>src/GUI/icon/send_file_press.png</file>
+        <file>src/GUI/icon/whisper.png</file>
+        <file>src/GUI/icon/whisper_hover.png</file>
+        <file>src/GUI/icon/whisper_press.png</file>
+        <file>src/GUI/logo.ico</file>
+    </qresource>
+</RCC>

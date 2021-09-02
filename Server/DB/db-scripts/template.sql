@@ -1,0 +1,15 @@
+USE db;
+
+DROP PROCEDURE IF EXISTS sp_;
+
+delimiter //
+
+CREATE PROCEDURE sp_ (
+    -- INOUT PARAM1 TYPE,
+    -- INOUT PARAM2 TYPE
+)
+BEGIN
+    -- PROCEDURE BODY
+END//
+
+delimiter ;

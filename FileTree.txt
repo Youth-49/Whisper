@@ -1,0 +1,845 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 3459-7AA4
+D:.
+│  FileTree.txt
+│  README.md
+│  
+├─build-WhisperUIDesign-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug
+│  │  .qmake.stash
+│  │  Makefile
+│  │  Makefile.Debug
+│  │  Makefile.Release
+│  │  ui_changepasswordform.h
+│  │  ui_changeusernameform.h
+│  │  ui_chatform.h
+│  │  ui_friendrequestform.h
+│  │  ui_loginform.h
+│  │  ui_promptform.h
+│  │  ui_signinform.h
+│  │  WhisperUIDesign_resource.rc
+│  │  
+│  ├─debug
+│  │  │  changepasswordform.obj
+│  │  │  changeusernameform.obj
+│  │  │  chatform.obj
+│  │  │  Connection.obj
+│  │  │  constants.obj
+│  │  │  DataClass.obj
+│  │  │  Echo.obj
+│  │  │  friendbutton.obj
+│  │  │  friendrequestform.obj
+│  │  │  loginform.obj
+│  │  │  main.obj
+│  │  │  moc_changepasswordform.cpp
+│  │  │  moc_changepasswordform.obj
+│  │  │  moc_changeusernameform.cpp
+│  │  │  moc_changeusernameform.obj
+│  │  │  moc_chatform.cpp
+│  │  │  moc_chatform.obj
+│  │  │  moc_Connection.cpp
+│  │  │  moc_Connection.obj
+│  │  │  moc_Echo.cpp
+│  │  │  moc_Echo.obj
+│  │  │  moc_friendbutton.cpp
+│  │  │  moc_friendbutton.obj
+│  │  │  moc_friendrequestform.cpp
+│  │  │  moc_friendrequestform.obj
+│  │  │  moc_loginform.cpp
+│  │  │  moc_loginform.obj
+│  │  │  moc_predefs.h
+│  │  │  moc_promptform.cpp
+│  │  │  moc_promptform.obj
+│  │  │  moc_signinform.cpp
+│  │  │  moc_signinform.obj
+│  │  │  promptform.obj
+│  │  │  qrc_src.cpp
+│  │  │  qrc_src.obj
+│  │  │  Qt5Cored.dll
+│  │  │  Qt5Guid.dll
+│  │  │  Qt5Widgetsd.dll
+│  │  │  signinform.obj
+│  │  │  SocketClient.obj
+│  │  │  WhisperUIDesign.exe
+│  │  │  WhisperUIDesign.ilk
+│  │  │  WhisperUIDesign.pdb
+│  │  │  WhisperUIDesign.vc.pdb
+│  │  │  WhisperUIDesign_resource.res
+│  │  │  
+│  │  └─plugins
+│  │      ├─audio
+│  │      │      qtaudio_wasapi.dll
+│  │      │      qtaudio_wasapid.dll
+│  │      │      qtaudio_windows.dll
+│  │      │      qtaudio_windowsd.dll
+│  │      │      
+│  │      ├─bearer
+│  │      │      qgenericbearer.dll
+│  │      │      qgenericbearerd.dll
+│  │      │      
+│  │      ├─canbus
+│  │      │      qtpassthrucanbus.dll
+│  │      │      qtpassthrucanbusd.dll
+│  │      │      qtpeakcanbus.dll
+│  │      │      qtpeakcanbusd.dll
+│  │      │      qtsysteccanbus.dll
+│  │      │      qtsysteccanbusd.dll
+│  │      │      qttinycanbus.dll
+│  │      │      qttinycanbusd.dll
+│  │      │      qtvectorcanbus.dll
+│  │      │      qtvectorcanbusd.dll
+│  │      │      qtvirtualcanbus.dll
+│  │      │      qtvirtualcanbusd.dll
+│  │      │      
+│  │      ├─designer
+│  │      │      qaxwidget.dll
+│  │      │      qquickwidget.dll
+│  │      │      
+│  │      ├─gamepads
+│  │      │      xinputgamepad.dll
+│  │      │      xinputgamepadd.dll
+│  │      │      
+│  │      ├─generic
+│  │      │      qtuiotouchplugin.dll
+│  │      │      qtuiotouchplugind.dll
+│  │      │      
+│  │      ├─geometryloaders
+│  │      │      defaultgeometryloader.dll
+│  │      │      defaultgeometryloaderd.dll
+│  │      │      gltfgeometryloader.dll
+│  │      │      gltfgeometryloaderd.dll
+│  │      │      
+│  │      ├─geoservices
+│  │      │      qtgeoservices_esri.dll
+│  │      │      qtgeoservices_esrid.dll
+│  │      │      qtgeoservices_itemsoverlay.dll
+│  │      │      qtgeoservices_itemsoverlayd.dll
+│  │      │      qtgeoservices_mapbox.dll
+│  │      │      qtgeoservices_mapboxd.dll
+│  │      │      qtgeoservices_nokia.dll
+│  │      │      qtgeoservices_nokiad.dll
+│  │      │      qtgeoservices_osm.dll
+│  │      │      qtgeoservices_osmd.dll
+│  │      │      
+│  │      ├─iconengines
+│  │      │      qsvgicon.dll
+│  │      │      qsvgicond.dll
+│  │      │      
+│  │      ├─imageformats
+│  │      │      qgif.dll
+│  │      │      qgifd.dll
+│  │      │      qicns.dll
+│  │      │      qicnsd.dll
+│  │      │      qico.dll
+│  │      │      qicod.dll
+│  │      │      qjpeg.dll
+│  │      │      qjpegd.dll
+│  │      │      qsvg.dll
+│  │      │      qsvgd.dll
+│  │      │      qtga.dll
+│  │      │      qtgad.dll
+│  │      │      qtiff.dll
+│  │      │      qtiffd.dll
+│  │      │      qwbmp.dll
+│  │      │      qwbmpd.dll
+│  │      │      qwebp.dll
+│  │      │      qwebpd.dll
+│  │      │      
+│  │      ├─mediaservice
+│  │      │      dsengine.dll
+│  │      │      dsengined.dll
+│  │      │      qtmedia_audioengine.dll
+│  │      │      qtmedia_audioengined.dll
+│  │      │      wmfengine.dll
+│  │      │      wmfengined.dll
+│  │      │      
+│  │      ├─platforms
+│  │      │      qdirect2d.dll
+│  │      │      qdirect2dd.dll
+│  │      │      qminimal.dll
+│  │      │      qminimald.dll
+│  │      │      qoffscreen.dll
+│  │      │      qoffscreend.dll
+│  │      │      qwindows.dll
+│  │      │      qwindowsd.dll
+│  │      │      
+│  │      ├─platformthemes
+│  │      │      qxdgdesktopportal.dll
+│  │      │      qxdgdesktopportald.dll
+│  │      │      
+│  │      ├─playlistformats
+│  │      │      qtmultimedia_m3u.dll
+│  │      │      qtmultimedia_m3ud.dll
+│  │      │      
+│  │      ├─position
+│  │      │      qtposition_positionpoll.dll
+│  │      │      qtposition_positionpolld.dll
+│  │      │      qtposition_serialnmea.dll
+│  │      │      qtposition_serialnmead.dll
+│  │      │      qtposition_winrt.dll
+│  │      │      qtposition_winrtd.dll
+│  │      │      
+│  │      ├─printsupport
+│  │      │      windowsprintersupport.dll
+│  │      │      windowsprintersupportd.dll
+│  │      │      
+│  │      ├─qmltooling
+│  │      │      qmldbg_debugger.dll
+│  │      │      qmldbg_debuggerd.dll
+│  │      │      qmldbg_inspector.dll
+│  │      │      qmldbg_inspectord.dll
+│  │      │      qmldbg_local.dll
+│  │      │      qmldbg_locald.dll
+│  │      │      qmldbg_messages.dll
+│  │      │      qmldbg_messagesd.dll
+│  │      │      qmldbg_native.dll
+│  │      │      qmldbg_natived.dll
+│  │      │      qmldbg_nativedebugger.dll
+│  │      │      qmldbg_nativedebuggerd.dll
+│  │      │      qmldbg_preview.dll
+│  │      │      qmldbg_previewd.dll
+│  │      │      qmldbg_profiler.dll
+│  │      │      qmldbg_profilerd.dll
+│  │      │      qmldbg_quickprofiler.dll
+│  │      │      qmldbg_quickprofilerd.dll
+│  │      │      qmldbg_server.dll
+│  │      │      qmldbg_serverd.dll
+│  │      │      qmldbg_tcp.dll
+│  │      │      qmldbg_tcpd.dll
+│  │      │      
+│  │      ├─renderers
+│  │      │      openglrenderer.dll
+│  │      │      openglrendererd.dll
+│  │      │      
+│  │      ├─renderplugins
+│  │      │      scene2d.dll
+│  │      │      scene2dd.dll
+│  │      │      
+│  │      ├─scenegraph
+│  │      │      qsgd3d12backend.dll
+│  │      │      qsgd3d12backendd.dll
+│  │      │      
+│  │      ├─sceneparsers
+│  │      │      gltfsceneexport.dll
+│  │      │      gltfsceneexportd.dll
+│  │      │      gltfsceneimport.dll
+│  │      │      gltfsceneimportd.dll
+│  │      │      
+│  │      ├─sensorgestures
+│  │      │      qtsensorgestures_plugin.dll
+│  │      │      qtsensorgestures_plugind.dll
+│  │      │      qtsensorgestures_shakeplugin.dll
+│  │      │      qtsensorgestures_shakeplugind.dll
+│  │      │      
+│  │      ├─sensors
+│  │      │      qtsensors_generic.dll
+│  │      │      qtsensors_genericd.dll
+│  │      │      
+│  │      ├─sqldrivers
+│  │      │      qsqlite.dll
+│  │      │      qsqlited.dll
+│  │      │      qsqlodbc.dll
+│  │      │      qsqlodbcd.dll
+│  │      │      qsqlpsql.dll
+│  │      │      qsqlpsqld.dll
+│  │      │      
+│  │      ├─styles
+│  │      │      qwindowsvistastyle.dll
+│  │      │      qwindowsvistastyled.dll
+│  │      │      
+│  │      ├─texttospeech
+│  │      │      qtexttospeech_sapi.dll
+│  │      │      qtexttospeech_sapid.dll
+│  │      │      
+│  │      └─webview
+│  │              qtwebview_webengine.dll
+│  │              qtwebview_webengined.dll
+│  │              
+│  └─release
+├─build-WhisperUIDesign-Desktop_Qt_5_15_2_MSVC2019_64bit-Release
+│  │  .qmake.stash
+│  │  Makefile
+│  │  Makefile.Debug
+│  │  Makefile.Release
+│  │  ui_changepasswordform.h
+│  │  ui_changeusernameform.h
+│  │  ui_chatform.h
+│  │  ui_friendrequestform.h
+│  │  ui_loginform.h
+│  │  ui_promptform.h
+│  │  ui_signinform.h
+│  │  WhisperUIDesign_resource.rc
+│  │  
+│  ├─debug
+│  └─release
+│      │  changepasswordform.obj
+│      │  changeusernameform.obj
+│      │  chatform.obj
+│      │  Connection.obj
+│      │  constants.obj
+│      │  D3Dcompiler_47.dll
+│      │  DataClass.obj
+│      │  Echo.obj
+│      │  friendbutton.obj
+│      │  friendrequestform.obj
+│      │  libEGL.dll
+│      │  libGLESv2.dll
+│      │  loginform.obj
+│      │  logo.ico
+│      │  main.obj
+│      │  moc_changepasswordform.cpp
+│      │  moc_changepasswordform.obj
+│      │  moc_changeusernameform.cpp
+│      │  moc_changeusernameform.obj
+│      │  moc_chatform.cpp
+│      │  moc_chatform.obj
+│      │  moc_Connection.cpp
+│      │  moc_Connection.obj
+│      │  moc_Echo.cpp
+│      │  moc_Echo.obj
+│      │  moc_friendbutton.cpp
+│      │  moc_friendbutton.obj
+│      │  moc_friendrequestform.cpp
+│      │  moc_friendrequestform.obj
+│      │  moc_loginform.cpp
+│      │  moc_loginform.obj
+│      │  moc_predefs.h
+│      │  moc_promptform.cpp
+│      │  moc_promptform.obj
+│      │  moc_signinform.cpp
+│      │  moc_signinform.obj
+│      │  opengl32sw.dll
+│      │  promptform.obj
+│      │  qrc_src.cpp
+│      │  qrc_src.obj
+│      │  Qt5Core.dll
+│      │  Qt5Gui.dll
+│      │  Qt5Svg.dll
+│      │  Qt5Widgets.dll
+│      │  signinform.obj
+│      │  SocketClient.obj
+│      │  WhisperUIDesign.exe
+│      │  WhisperUIDesign_resource.res
+│      │  
+│      ├─iconengines
+│      │      qsvgicon.dll
+│      │      
+│      ├─imageformats
+│      │      qgif.dll
+│      │      qicns.dll
+│      │      qico.dll
+│      │      qjpeg.dll
+│      │      qsvg.dll
+│      │      qtga.dll
+│      │      qtiff.dll
+│      │      qwbmp.dll
+│      │      qwebp.dll
+│      │      
+│      ├─platforms
+│      │      qwindows.dll
+│      │      
+│      ├─plugins
+│      │  ├─audio
+│      │  │      qtaudio_wasapi.dll
+│      │  │      qtaudio_wasapid.dll
+│      │  │      qtaudio_windows.dll
+│      │  │      qtaudio_windowsd.dll
+│      │  │      
+│      │  ├─bearer
+│      │  │      qgenericbearer.dll
+│      │  │      qgenericbearerd.dll
+│      │  │      
+│      │  ├─canbus
+│      │  │      qtpassthrucanbus.dll
+│      │  │      qtpassthrucanbusd.dll
+│      │  │      qtpeakcanbus.dll
+│      │  │      qtpeakcanbusd.dll
+│      │  │      qtsysteccanbus.dll
+│      │  │      qtsysteccanbusd.dll
+│      │  │      qttinycanbus.dll
+│      │  │      qttinycanbusd.dll
+│      │  │      qtvectorcanbus.dll
+│      │  │      qtvectorcanbusd.dll
+│      │  │      qtvirtualcanbus.dll
+│      │  │      qtvirtualcanbusd.dll
+│      │  │      
+│      │  ├─designer
+│      │  │      qaxwidget.dll
+│      │  │      qquickwidget.dll
+│      │  │      
+│      │  ├─gamepads
+│      │  │      xinputgamepad.dll
+│      │  │      xinputgamepadd.dll
+│      │  │      
+│      │  ├─generic
+│      │  │      qtuiotouchplugin.dll
+│      │  │      qtuiotouchplugind.dll
+│      │  │      
+│      │  ├─geometryloaders
+│      │  │      defaultgeometryloader.dll
+│      │  │      defaultgeometryloaderd.dll
+│      │  │      gltfgeometryloader.dll
+│      │  │      gltfgeometryloaderd.dll
+│      │  │      
+│      │  ├─geoservices
+│      │  │      qtgeoservices_esri.dll
+│      │  │      qtgeoservices_esrid.dll
+│      │  │      qtgeoservices_itemsoverlay.dll
+│      │  │      qtgeoservices_itemsoverlayd.dll
+│      │  │      qtgeoservices_mapbox.dll
+│      │  │      qtgeoservices_mapboxd.dll
+│      │  │      qtgeoservices_nokia.dll
+│      │  │      qtgeoservices_nokiad.dll
+│      │  │      qtgeoservices_osm.dll
+│      │  │      qtgeoservices_osmd.dll
+│      │  │      
+│      │  ├─iconengines
+│      │  │      qsvgicon.dll
+│      │  │      qsvgicond.dll
+│      │  │      
+│      │  ├─imageformats
+│      │  │      qgif.dll
+│      │  │      qgifd.dll
+│      │  │      qicns.dll
+│      │  │      qicnsd.dll
+│      │  │      qico.dll
+│      │  │      qicod.dll
+│      │  │      qjpeg.dll
+│      │  │      qjpegd.dll
+│      │  │      qsvg.dll
+│      │  │      qsvgd.dll
+│      │  │      qtga.dll
+│      │  │      qtgad.dll
+│      │  │      qtiff.dll
+│      │  │      qtiffd.dll
+│      │  │      qwbmp.dll
+│      │  │      qwbmpd.dll
+│      │  │      qwebp.dll
+│      │  │      qwebpd.dll
+│      │  │      
+│      │  ├─mediaservice
+│      │  │      dsengine.dll
+│      │  │      dsengined.dll
+│      │  │      qtmedia_audioengine.dll
+│      │  │      qtmedia_audioengined.dll
+│      │  │      wmfengine.dll
+│      │  │      wmfengined.dll
+│      │  │      
+│      │  ├─platforms
+│      │  │      qdirect2d.dll
+│      │  │      qdirect2dd.dll
+│      │  │      qminimal.dll
+│      │  │      qminimald.dll
+│      │  │      qoffscreen.dll
+│      │  │      qoffscreend.dll
+│      │  │      qwindows.dll
+│      │  │      qwindowsd.dll
+│      │  │      
+│      │  ├─platformthemes
+│      │  │      qxdgdesktopportal.dll
+│      │  │      qxdgdesktopportald.dll
+│      │  │      
+│      │  ├─playlistformats
+│      │  │      qtmultimedia_m3u.dll
+│      │  │      qtmultimedia_m3ud.dll
+│      │  │      
+│      │  ├─position
+│      │  │      qtposition_positionpoll.dll
+│      │  │      qtposition_positionpolld.dll
+│      │  │      qtposition_serialnmea.dll
+│      │  │      qtposition_serialnmead.dll
+│      │  │      qtposition_winrt.dll
+│      │  │      qtposition_winrtd.dll
+│      │  │      
+│      │  ├─printsupport
+│      │  │      windowsprintersupport.dll
+│      │  │      windowsprintersupportd.dll
+│      │  │      
+│      │  ├─qmltooling
+│      │  │      qmldbg_debugger.dll
+│      │  │      qmldbg_debuggerd.dll
+│      │  │      qmldbg_inspector.dll
+│      │  │      qmldbg_inspectord.dll
+│      │  │      qmldbg_local.dll
+│      │  │      qmldbg_locald.dll
+│      │  │      qmldbg_messages.dll
+│      │  │      qmldbg_messagesd.dll
+│      │  │      qmldbg_native.dll
+│      │  │      qmldbg_natived.dll
+│      │  │      qmldbg_nativedebugger.dll
+│      │  │      qmldbg_nativedebuggerd.dll
+│      │  │      qmldbg_preview.dll
+│      │  │      qmldbg_previewd.dll
+│      │  │      qmldbg_profiler.dll
+│      │  │      qmldbg_profilerd.dll
+│      │  │      qmldbg_quickprofiler.dll
+│      │  │      qmldbg_quickprofilerd.dll
+│      │  │      qmldbg_server.dll
+│      │  │      qmldbg_serverd.dll
+│      │  │      qmldbg_tcp.dll
+│      │  │      qmldbg_tcpd.dll
+│      │  │      
+│      │  ├─renderers
+│      │  │      openglrenderer.dll
+│      │  │      openglrendererd.dll
+│      │  │      
+│      │  ├─renderplugins
+│      │  │      scene2d.dll
+│      │  │      scene2dd.dll
+│      │  │      
+│      │  ├─scenegraph
+│      │  │      qsgd3d12backend.dll
+│      │  │      qsgd3d12backendd.dll
+│      │  │      
+│      │  ├─sceneparsers
+│      │  │      gltfsceneexport.dll
+│      │  │      gltfsceneexportd.dll
+│      │  │      gltfsceneimport.dll
+│      │  │      gltfsceneimportd.dll
+│      │  │      
+│      │  ├─sensorgestures
+│      │  │      qtsensorgestures_plugin.dll
+│      │  │      qtsensorgestures_plugind.dll
+│      │  │      qtsensorgestures_shakeplugin.dll
+│      │  │      qtsensorgestures_shakeplugind.dll
+│      │  │      
+│      │  ├─sensors
+│      │  │      qtsensors_generic.dll
+│      │  │      qtsensors_genericd.dll
+│      │  │      
+│      │  ├─sqldrivers
+│      │  │      qsqlite.dll
+│      │  │      qsqlited.dll
+│      │  │      qsqlodbc.dll
+│      │  │      qsqlodbcd.dll
+│      │  │      qsqlpsql.dll
+│      │  │      qsqlpsqld.dll
+│      │  │      
+│      │  ├─styles
+│      │  │      qwindowsvistastyle.dll
+│      │  │      qwindowsvistastyled.dll
+│      │  │      
+│      │  ├─texttospeech
+│      │  │      qtexttospeech_sapi.dll
+│      │  │      qtexttospeech_sapid.dll
+│      │  │      
+│      │  └─webview
+│      │          qtwebview_webengine.dll
+│      │          qtwebview_webengined.dll
+│      │          
+│      ├─styles
+│      │      qwindowsvistastyle.dll
+│      │      
+│      └─translations
+│              qt_ar.qm
+│              qt_bg.qm
+│              qt_ca.qm
+│              qt_cs.qm
+│              qt_da.qm
+│              qt_de.qm
+│              qt_en.qm
+│              qt_es.qm
+│              qt_fi.qm
+│              qt_fr.qm
+│              qt_gd.qm
+│              qt_he.qm
+│              qt_hu.qm
+│              qt_it.qm
+│              qt_ja.qm
+│              qt_ko.qm
+│              qt_lv.qm
+│              qt_pl.qm
+│              qt_ru.qm
+│              qt_sk.qm
+│              qt_tr.qm
+│              qt_uk.qm
+│              qt_zh_TW.qm
+│              
+├─Server
+│  │  .DS_Store
+│  │  build.sh
+│  │  
+│  ├─DB
+│  │  │  .DS_Store
+│  │  │  build.sh
+│  │  │  DBController.cpp
+│  │  │  DBController.h
+│  │  │  query.c
+│  │  │  
+│  │  └─db-scripts
+│  │          create_db.sql
+│  │          create_sample_data.sql
+│  │          init_db.sql
+│  │          rights.sql
+│  │          sp_create_account.sql
+│  │          sp_create_friend_link.sql
+│  │          sp_create_friend_link_request.sql
+│  │          sp_create_record.sql
+│  │          sp_get_all_friend.sql
+│  │          sp_get_all_friend_request.sql
+│  │          sp_get_record_chunk.sql
+│  │          sp_get_unread_record.sql
+│  │          sp_login.sql
+│  │          sp_reply_friend_link_request.sql
+│  │          sp_update_account.sql
+│  │          sp_update_alias.sql
+│  │          sp_update_passkey.sql
+│  │          sp_update_read_record.sql
+│  │          template.sql
+│  │          
+│  └─Socket
+│      │  .DS_Store
+│      │  server.cpp
+│      │  SocketServer.cpp
+│      │  SocketServer.h
+│      │  
+│      └─.git
+│          │  COMMIT_EDITMSG
+│          │  config
+│          │  description
+│          │  FETCH_HEAD
+│          │  HEAD
+│          │  index
+│          │  ORIG_HEAD
+│          │  packed-refs
+│          │  
+│          ├─hooks
+│          │      applypatch-msg.sample
+│          │      commit-msg.sample
+│          │      fsmonitor-watchman.sample
+│          │      post-update.sample
+│          │      pre-applypatch.sample
+│          │      pre-commit.sample
+│          │      pre-merge-commit.sample
+│          │      pre-push.sample
+│          │      pre-rebase.sample
+│          │      pre-receive.sample
+│          │      prepare-commit-msg.sample
+│          │      push-to-checkout.sample
+│          │      update.sample
+│          │      
+│          ├─info
+│          │      exclude
+│          │      
+│          ├─logs
+│          │  │  HEAD
+│          │  │  
+│          │  └─refs
+│          │      ├─heads
+│          │      │      master
+│          │      │      
+│          │      └─remotes
+│          │          └─origin
+│          │                  HEAD
+│          │                  master
+│          │                  
+│          ├─objects
+│          │  ├─09
+│          │  │      c8c9053ca7d8574e34f90c70f8b39f6feb30b3
+│          │  │      
+│          │  ├─17
+│          │  │      04fb6267e1a671b0ac0f9ca7ab983c78784815
+│          │  │      
+│          │  ├─1d
+│          │  │      0b7d7dea5d571fc364023def339bb1dd91e33e
+│          │  │      5c6e67d2f1edf94cc219f26c0120668884bed2
+│          │  │      
+│          │  ├─34
+│          │  │      2b3c630456fc660cef7f99fc10c6451944cd8a
+│          │  │      
+│          │  ├─51
+│          │  │      d0fda6d59b196c5d9713368d90cc2cc732d0ff
+│          │  │      
+│          │  ├─75
+│          │  │      f1b2443cce622fc55b18344e32b3d70e74200f
+│          │  │      
+│          │  ├─8d
+│          │  │      cdbee0997c61c134e40b723f0db88681219f8d
+│          │  │      
+│          │  ├─af
+│          │  │      c62c57faa12f2e9c1e2b641c1a430e4a935c72
+│          │  │      
+│          │  ├─bc
+│          │  │      263319a6af199eb649b1e9bca1da2c637e1b44
+│          │  │      
+│          │  ├─c8
+│          │  │      390c5ad4a2f16ff70036bd101a8b340eaea71e
+│          │  │      
+│          │  ├─c9
+│          │  │      975fc98ace7d82e308cec52159671f5291a5e4
+│          │  │      
+│          │  ├─ca
+│          │  │      c89d2fd6c07ab0b62ffa4fad172a2141dcdef8
+│          │  │      
+│          │  ├─d6
+│          │  │      0cecbe289cbd2d859394eedaf51f3e792a088c
+│          │  │      
+│          │  ├─eb
+│          │  │      43b969779a24e296a7b08d1ae70f5f9dbe5a32
+│          │  │      
+│          │  ├─f1
+│          │  │      1b880f14a9ee28dc38948bfa18d9fcfe7e08f3
+│          │  │      
+│          │  ├─fb
+│          │  │      993ccfe15ce091d325cc9fbbf4e0dd025b72a2
+│          │  │      
+│          │  ├─info
+│          │  └─pack
+│          │          pack-2ba4f0ba81c90560aba71d57deba31d086a0b0ac.idx
+│          │          pack-2ba4f0ba81c90560aba71d57deba31d086a0b0ac.pack
+│          │          
+│          └─refs
+│              ├─heads
+│              │      master
+│              │      
+│              ├─remotes
+│              │  └─origin
+│              │          HEAD
+│              │          master
+│              │          
+│              └─tags
+├─Whisper
+│  │  D3Dcompiler_47.dll
+│  │  libEGL.dll
+│  │  libGLESv2.dll
+│  │  logo.ico
+│  │  opengl32sw.dll
+│  │  Qt5Core.dll
+│  │  Qt5Gui.dll
+│  │  Qt5Svg.dll
+│  │  Qt5Widgets.dll
+│  │  Whisper.exe
+│  │  
+│  ├─iconengines
+│  │      qsvgicon.dll
+│  │      
+│  ├─imageformats
+│  │      qgif.dll
+│  │      qicns.dll
+│  │      qico.dll
+│  │      qjpeg.dll
+│  │      qsvg.dll
+│  │      qtga.dll
+│  │      qtiff.dll
+│  │      qwbmp.dll
+│  │      qwebp.dll
+│  │      
+│  ├─platforms
+│  │      qwindows.dll
+│  │      
+│  ├─styles
+│  │      qwindowsvistastyle.dll
+│  │      
+│  └─translations
+│          qt_ar.qm
+│          qt_bg.qm
+│          qt_ca.qm
+│          qt_cs.qm
+│          qt_da.qm
+│          qt_de.qm
+│          qt_en.qm
+│          qt_es.qm
+│          qt_fi.qm
+│          qt_fr.qm
+│          qt_gd.qm
+│          qt_he.qm
+│          qt_hu.qm
+│          qt_it.qm
+│          qt_ja.qm
+│          qt_ko.qm
+│          qt_lv.qm
+│          qt_pl.qm
+│          qt_ru.qm
+│          qt_sk.qm
+│          qt_tr.qm
+│          qt_uk.qm
+│          qt_zh_TW.qm
+│          
+└─WhisperUIDesign
+    │  changepasswordform.cpp
+    │  changepasswordform.h
+    │  changepasswordform.ui
+    │  changeusernameform.cpp
+    │  changeusernameform.h
+    │  changeusernameform.ui
+    │  chatform.cpp
+    │  chatform.h
+    │  chatform.ui
+    │  Connection.cpp
+    │  Connection.h
+    │  constants.cpp
+    │  constants.h
+    │  DataClass.cpp
+    │  DataClass.h
+    │  Echo.cpp
+    │  Echo.h
+    │  friendbutton.cpp
+    │  friendbutton.h
+    │  friendrequestform.cpp
+    │  friendrequestform.h
+    │  friendrequestform.ui
+    │  loginform.cpp
+    │  loginform.h
+    │  loginform.ui
+    │  logo.ico
+    │  main.cpp
+    │  promptform.cpp
+    │  promptform.h
+    │  promptform.ui
+    │  signinform.cpp
+    │  signinform.h
+    │  signinform.ui
+    │  SocketClient.cpp
+    │  SocketClient.h
+    │  src.qrc
+    │  WhisperUIDesign.pro
+    │  WhisperUIDesign.pro.user
+    │  WhisperUIDesign.pro.user.00708c5
+    │  WhisperUIDesign.pro.user.0a21924
+    │  WhisperUIDesign.pro.user.574c2e3
+    │  WhisperUIDesign.pro.user.7b4c664
+    │  
+    └─src
+        └─GUI
+            │  bg300x220.png
+            │  bg300x320.png
+            │  bg300x490.png
+            │  bgmain.png
+            │  button.png
+            │  button_hover.png
+            │  button_press.png
+            │  close.png
+            │  close_hover.png
+            │  icon.png
+            │  input.png
+            │  login.png
+            │  logo.ico
+            │  min.png
+            │  min_hover.png
+            │  more.png
+            │  more_hover.png
+            │  more_press.png
+            │  notice.png
+            │  prompt_error.png
+            │  prompt_hint.png
+            │  prompt_warning.png
+            │  send.png
+            │  short_button.png
+            │  short_button_hover.png
+            │  short_button_press.png
+            │  short_secbutton.png
+            │  short_secbutton_hover.png
+            │  short_secbutton_press.png
+            │  slice_bg.png
+            │  thumbs.db
+            │  
+            └─icon
+                    addFriend.png
+                    addFriend_hover.png
+                    search.png
+                    send_file.png
+                    send_file_hover.png
+                    send_file_press.png
+                    whisper.png
+                    whisper_hover.png
+                    whisper_press.png
+                    
